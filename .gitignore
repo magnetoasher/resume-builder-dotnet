@@ -1,0 +1,26 @@
+# Build output
+**/bin/
+**/obj/
+publish/
+
+# IDE and user-specific files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Local/sensitive runtime data
+profiles.json
+Resumes/
+applications.xlsx
+
+# Temporary packaging/work folders
+_tmp_style_2/
+*.rar
+*.zip
+
+# Logs
+*.log

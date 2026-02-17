@@ -1,0 +1,51 @@
+{
+  "first_last": {
+    "display_name": "First Last",
+    "contact_line": "",
+    "email": "first.last@example.com",
+    "phone": "(555) 123-4567",
+    "address": "City, ST",
+    "linkedin": "https://www.linkedin.com/in/first-last/",
+    "education": [
+      {
+        "degree": "B.S. in Computer Science",
+        "school": "University Name",
+        "dates": "2018 - 2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Company Name",
+        "title": "Software Engineer",
+        "dates": "Jan 2023 - Present"
+      }
+    ]
+  },
+  "another_profile_id": {
+    "display_name": "Another Person",
+    "contact_line": "",
+    "email": "another.person@example.com",
+    "phone": "(555) 987-6543",
+    "address": "Another City, ST",
+    "linkedin": "https://www.linkedin.com/in/another-person/",
+    "education": [
+      {
+        "degree": "M.S. in Information Systems",
+        "school": "Another University",
+        "dates": "2016 - 2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Example Corp",
+        "title": "Senior Software Engineer",
+        "dates": "Apr 2021 - Present"
+      },
+      {
+        "company": "Previous Co",
+        "title": "Software Engineer",
+        "dates": "Jun 2018 - Mar 2021"
+      }
+    ]
+  }
+}
